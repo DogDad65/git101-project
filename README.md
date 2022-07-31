@@ -1,2 +1,2 @@
 # git101-project
-Project for GitHub 101 course.
+Final project for GitHub 101 course.
