@@ -1,2 +1,4 @@
 # git101-project
-Final project for GitHub 101 course.
+
+I'm editing this file from my local laptop.
+This is an additional update.
